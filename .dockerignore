@@ -1,5 +1,5 @@
 **/*_test.go
 
-build/_workspace
+build/_workspace,m 
 build/_bin
 tests/testdata
